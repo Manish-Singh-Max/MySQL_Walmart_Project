@@ -1,1 +1,1 @@
-# MySQL_Walmart_Project
+# MySQL_Projects
